@@ -1,0 +1,1 @@
+cmd_/home/sibrajas/knetmod/netmod0.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.5.0-17-generic/scripts/module-common.lds --build-id  -o /home/sibrajas/knetmod/netmod0.ko /home/sibrajas/knetmod/netmod0.o /home/sibrajas/knetmod/netmod0.mod.o

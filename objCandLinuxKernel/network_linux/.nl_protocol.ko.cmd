@@ -1,0 +1,1 @@
+cmd_/home/sibrajas/network_linux/nl_protocol.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.5.0-17-generic/scripts/module-common.lds --build-id  -o /home/sibrajas/network_linux/nl_protocol.ko /home/sibrajas/network_linux/nl_protocol.o /home/sibrajas/network_linux/nl_protocol.mod.o
